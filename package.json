@@ -1,0 +1,23 @@
+{
+  "name": "css_design",
+  "version": "1.0.0",
+  "description": "css design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kato-mono@github.com/kato-mono/css_design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kato-mono/css_design/issues"
+  },
+  "homepage": "https://github.com/kato-mono/css_design#readme",
+  "dependencies": {
+    "emma.css": "^0.9.0",
+    "normalize.css": "^7.0.0"
+  }
+}
